@@ -1,1 +1,1 @@
-# StarterKit
+# Scratch-StarterKit
